@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+
+}
+</style>
+</head>
+<body>
+
+<h2>BOX MODEL</h2>
+<p>Food Items</p>
+
+<div>
+<img src="https://www.holidify.com/images/cmsuploads/compressed/indian-1768906_1920_20180322173733.jpg" width="100" height="100"> <br>
+<br><i>Name:Dosa<br>
+<br>Quantity:2<br>
+<br>cost:20/-<br></i>
+<style>
+img {
+  float: right;
+}
+</style>
+<img src="https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4NjM4Mjk0MTEyNzQxMjcx/5-weird-foreign-fast-food-items-that-companies-should-bring-to-america.jpg" width="100" height="100"><br>
+<br><i>Name:Burger<br>
+<br>Quantity:1<br>
+<br>cost:100/-<br></i>
+
+<img src="https://cdn.shopify.com/s/files/1/0593/9068/9432/files/noodles_480x480.jpg?v=1646140940" width="100" height="100"> <br>
+<br><i>Name:noodles<br>
+<br>Quantity:1<br>
+<br>cost:70/-<br></i>
+
+
+</div>
+
+</body>
+</html>
